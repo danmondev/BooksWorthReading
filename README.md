@@ -1,6 +1,6 @@
-# BooksWorthReading
-This is a compendium of books I have deemed worth reading, (mostly) related to Computer Science and Software Development, with a few exceptions that delve into the philosophical and such.
-<br />
+# Books Worth Reading
+This is a compendium of books I have deemed worth reading, (mostly) related to Computer Science and Software Development, with a few exceptions that delve into the philosophical and such. This is by no means an exhaustive list, I'll be continually updating it.
+<br /><br />
 Gödel, Escher, Bach: An Eternal Golden Braid; Douglas R. Hofstadter. (http://tinyurl.com/hletoxe)<br />
 I Am a Strange Loop; Douglas R. Hofstadter. (http://tinyurl.com/y3t3vqc9)<br />
 Godel's Proof; Ernest Nagel (http://tinyurl.com/y2l2crls)<br />
